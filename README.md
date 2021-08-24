@@ -3,8 +3,6 @@
 
 <h2 align="left">Repositório criado para resolução <br>do desafio backend</h2>
 
----
-
 <br>
 <br>
 <br>
